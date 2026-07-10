@@ -1,0 +1,13 @@
+nav{
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    
+}
+
+li{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+    justify-content: center;
+}
